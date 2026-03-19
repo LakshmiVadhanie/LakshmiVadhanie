@@ -9,16 +9,6 @@
 
 ---
 
-## About Me
-
-I build **production-grade ML systems and LLM-powered applications** with a focus on scalability, latency, and real-world impact.
-
-*  MS Data Science @ Northeastern University
-*  Experience with real-time ML + analytics pipelines
-*  Interested in inference systems, search/recsys, and GenAI infra
-
-
-
 
 ##  Connect with Me
 
@@ -27,4 +17,5 @@ I build **production-grade ML systems and LLM-powered applications** with a focu
 
 ---
 
- Always building, sometimes breaking, mostly shipping.
+ 
+I build **production-grade ML systems and LLM-powered applications** with a focus on scalability, latency, and real-world impact. Always building, sometimes breaking, mostly shipping.
