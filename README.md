@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Lakshmi%20Vadhanie&fontSize=40&fontAlignY=35&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Data%20Scientist&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
 ```bash
 > Lakshmi Vadhanie | MS Data Science @ Northeastern
