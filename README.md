@@ -8,10 +8,8 @@
 > Previously: Wave Life Sciences | Co-founder @ Twinly
 > Focus: Low-latency ML + GenAI infra
 
----
 
 
-```md
 ## About Me
 
 I build production-grade ML systems and LLM-powered applications.
