@@ -14,7 +14,7 @@
 I build **production-grade ML systems and LLM-powered applications** with a focus on scalability, latency, and real-world impact.
 
 *  MS Data Science @ Northeastern University
-*  Experience with real-time ML + analytics pipelines (Kafka, Spark, GCP)
+*  Experience with real-time ML + analytics pipelines
 *  Interested in inference systems, search/recsys, and GenAI infra
 
 
