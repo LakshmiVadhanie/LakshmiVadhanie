@@ -1,4 +1,4 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:E100FF&height=200&section=header&text=Lakshmi%20Vadhanie&fontSize=40&fontAlignY=35&animation=fadeIn" />
 
 <!--
 **LakshmiVadhanie/LakshmiVadhanie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
