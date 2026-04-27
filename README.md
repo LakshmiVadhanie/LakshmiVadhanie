@@ -8,55 +8,20 @@ I care about shipping ML systems that work for real users, not just hitting benc
 
 Currently a TA for AI-Assisted Software Engineering at Northeastern, co-founder of an AI productivity startup (Twinly), and always building something new.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@northeastern.edu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](YOUR-PORTFOLIO-URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshmivadhanie/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lakshmivadhanie@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://lakshmivadhanie-portfolio.netlify.app/)
 
 ---
 
-## 🔨 What I'm Building Right Now
+##  What I'm Building Right Now
 
-**🔍 CodeRadar MCP Server** — A Python MCP library for local codebase intelligence. Repo explanation, PR diff analysis, dependency CVE auditing via OSV.dev, static analysis with ruff/pyflakes, and self-healing code suggestions. Designed for PyPI publication.
+** CodeRadar MCP Server** — A Python MCP library for local codebase intelligence. Repo explanation, PR diff analysis, dependency CVE auditing via OSV.dev, static analysis with ruff/pyflakes, and self-healing code suggestions. Designed for PyPI publication.
 
-**🎓 DevInsight** — Capstone project predicting developer productivity from GitHub activity using LSTM + LLM pipelines. Real signals, not vanity metrics.
-
----
-
-## 🚀 Featured Projects
-
-### [Agentic Hiring Screener](https://github.com/LakshmiVadhanie/REPO-NAME)
-> LLM-powered resume screening pipeline that actually works in production
-
-`LangGraph` `Mistral` `ChromaDB` `Cloud Run`
-
-Built an agentic system that screens resumes against job descriptions using multi-step reasoning, not just keyword matching. Deployed on Google Cloud Run with vector retrieval for semantic candidate-JD matching.
 
 ---
 
-### [StressTest-Model](https://github.com/LakshmiVadhanie/REPO-NAME)
-> Adversarial robustness benchmarking for ML models
-
-`PyTorch` `FGSM` `PGD` `Adversarial ML`
-
-A tool to stress-test your ML models against adversarial attacks. Supports multiple attack methods (FGSM, PGD, and more), generates robustness reports, and helps you understand where your model breaks before production does.
-
----
-
-### [Intelligent Onboarding Assistant](https://github.com/LakshmiVadhanie/REPO-NAME)
-> Hybrid RAG system with production MLOps pipeline
-
-`LangChain` `Airflow` `DVC` `GCP` `RAGAS`
-
-A retrieval-augmented generation system for employee onboarding, with proper MLOps: Airflow orchestration, DVC for data versioning, GCP deployment, and RAGAS-based evaluation so you know when retrieval quality degrades.
-
----
-
-### [IT Support Agent](https://github.com/LakshmiVadhanie/REPO-NAME)
-> Production agentic system for automated IT helpdesk
-
-`LangChain` `GPT-4` `LoRA` `Pinecone` `FastAPI` `Groq`
-
-Agentic IT support system with LoRA fine-tuning, vector search via Pinecone, and a FastAPI backend. Handles multi-turn conversations, retrieves relevant documentation, and resolves tickets autonomously.
+evaluation so you know when retrieval quality degrades.
 
 ---
 
