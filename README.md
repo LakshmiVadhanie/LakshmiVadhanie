@@ -23,8 +23,8 @@ CodeRadar MCP Server — A Python MCP library for local codebase intelligence. R
 
 ## 📄 Publications
 
-- **BERT-Based Treatment Recommendation System** — First-place international award, published in IGI Global (2024). Built a BERT-powered system for personalized treatment recommendations.
-- **Adversarial ML Resilience Against CNN Data Poisoning** — Peer-reviewed research on defending convolutional neural networks against data poisoning attacks.
+- **BERT-Based Treatment Recommendation System** - First-place international award, published in IGI Global (2024). Built a BERT-powered system for personalized treatment recommendations.
+- **Adversarial ML Resilience Against CNN Data Poisoning** - Peer-reviewed research on defending convolutional neural networks against data poisoning attacks.
 
 
 
