@@ -16,7 +16,7 @@ Currently a TA for AI-Assisted Software Engineering at Northeastern, co-founder 
 
 ##  What I'm Building Right Now
 
-CodeRadar MCP Server — A Python MCP library for local codebase intelligence. Repo explanation, PR diff analysis, dependency CVE auditing via OSV.dev, static analysis with ruff/pyflakes, and self-healing code suggestions. Designed for PyPI publication.
+CodeRadar MCP Server - A Python MCP library for local codebase intelligence. Repo explanation, PR diff analysis, dependency CVE auditing via OSV.dev, static analysis with ruff/pyflakes, and self-healing code suggestions. Designed for PyPI publication.
 
 
 ---
